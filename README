@@ -12,3 +12,22 @@
 </head>
 <body><h1>Heather Williams</h1>
 </body></html>
+
+/* this is a comment */
+/* http://www.w3schools.com/css/css_examples.asp */
+body
+{
+    /* background-color:#d0e4fe;  */
+    background-color:yellowgreen;
+    font-family:"Georgia";   
+}
+h1
+{
+    color:navy;
+    text-align:center;
+}
+p
+{
+    font-family:"Arial";
+    font-size:20px;
+}
